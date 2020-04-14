@@ -10,7 +10,7 @@ gem 'sqlite3', '~> 1.4'
 gem 'mysql2', '~> 0.4.4'
 gem "bcrypt"
 gem "sprockets-rails", :require => "sprockets/railtie"
-gem "bootstrap-sass", "~> 3.3.6"
+gem "bootstrap-sass", "~> 3.4.1"
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
